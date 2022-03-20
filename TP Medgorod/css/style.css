@@ -319,6 +319,7 @@ li.Aboute {
   color: #035063;
   -webkit-transform: translate(87px, -6px);
           transform: translate(87px, -6px);
+  cursor: pointer;
 }
 
 .Nav-links-phone:hover .MenuDropphone {
